@@ -1,1 +1,1 @@
---platform=linux/amd64 yinxin630/fiora
+--platform=linux/amd64 suisuijiang/fiora
