@@ -1,1 +1,2 @@
---platform=linux/amd64 suisuijiang/fiora
+--platform=linux/amd64 mongo:latest
+--platform=linux/amd64 redis:latest
