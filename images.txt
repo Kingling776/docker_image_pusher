@@ -1,2 +1,1 @@
---platform=linux/amd64 mongo:latest
---platform=linux/amd64 redis:latest
+--platform=linux/amd64 stardm0/moontv:latest
